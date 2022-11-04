@@ -1,8 +1,11 @@
 # EyeFireProject_DangThiMai
 YÊU CẦU : 
 Truy cập vào trang: https://school.eyefire.vn/#/pages/student-manage
+
 + Tài khoản đăng nhập: 0375875745
+
 + Mật khẩu: abc123
+
 Yêu cầu: Hãy viết testcase và thực hiện viết scripts cho chức năng Thêm mới học sinh https://prnt.sc/RuZyY3DrHHXQ
 
 ##### CÁCH THỰC HIỆN #######
